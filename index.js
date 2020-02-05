@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     excitedFacts.push(`${facts} + !!!`)
     i++;
   }
-  return facts
+  return excitedFacts
 }
